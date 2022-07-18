@@ -2,6 +2,3 @@
 client_secrets.json
 folder
 *__pycache__*
-extracted_face/*
-!extracted_face/.keep
-util/face_detection/weights/WIDERFace_DSFD_RES152.pth
